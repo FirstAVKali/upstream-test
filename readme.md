@@ -1,5 +1,10 @@
 # Zwolle git cursus
 
 de eerste aanpassing
+Dit is nog een aanpassing vanuit master
+Dit is een aanpassingen vanaf de feature branch
+even een zinnetje die ik toevoeg op de frebase branch
 
-Nog een aanpassing
+masterlijk
+
+nog een test
